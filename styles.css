@@ -1,0 +1,18 @@
+table {
+  border-spacing: 0;
+  margin: 0 auto;
+  text-align: center;
+  background-color: rgb(58, 58, 185);
+  border: 1px solid;
+}
+th {
+  color: rgb(249, 240, 0);
+  padding: 10px;
+  border: 3px solid rgb(96, 96, 215);
+}
+td {
+  border: 3px solid rgb(96, 96, 215);
+  padding: 20px;
+  text-align: left;
+  color: white;
+}
